@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Zodiac Symbols RecyclerView</string>
+
+    <!-- create an arrays for zodiac names and dates -->
+
+    <string-array name="zodiac_name">
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+    </string-array>
+
+    <string-array name="zodiac_dates">
+        <item>Dec 22 - Jan 19</item>
+        <item>Jan 20 - Feb 18</item>
+        <item>Feb 19 - Mar 20</item>
+        <item>Mar 21 - Apr 19</item>
+        <item>Apr 20 - May 20</item>
+        <item>May 21 - Jun 20</item>
+        <item>Jun 21 - Jul 22</item>
+        <item>Jul 23 - Aug 22</item>
+        <item>Aug 23 - Sep 22</item>
+        <item>Sep 23 - Oct 22</item>
+        <item>Oct 23 - Nov 21</item>
+        <item>Nov 22 - Dec 21</item>
+    </string-array>
+
+
+    <string-array name="zodiac_description">
+        <item>Smart, hardworking, and fully in control of their destiny,Capricorn signs will always get what they set their mind to,in both personal and professional life—no excuses.Capricorns may get a reputation as stubborn, but they simply know what they want,and also know how they wish other people would behave.</item>
+        <item>Independent and enigmatical, Aquarians are unique.
+            There is no one quite like an Aquarius, and because each is so incredibly individual,
+            it can be tough to describe them as a group.</item>
+        <item>Smart, creative, and deeply intuitive,
+            Pisces can be close to psychic. Pisces feel things deeply, and have incredibly strong gut reactions.
+            A Pisces knows things from deep within, and can often judge whether
+            a person or situation is good or bad.</item>
+        <item>The first sign of the Zodiac, Aries are the trailblazers.
+            Passionate and independent, Aries will never do something just because
+            everyone else is doing it a Ram
+            needs to be 100 percent committed to the task at hand.</item>
+        <item>Smart, ambitious, and trustworthy, Taurus is the anchor of the Zodiac.
+            Amazing friends, colleagues, and partners,
+            Taureans value honesty above all else and are proud that their personal
+            relationships tend to be drama free. </item>
+        <item>Smart, passionate, and dynamic, Gemini is characterized by the Twins,
+            Castor and Pollux, and is known for having two different sides they can display to the world.
+            Expert communicators, Gemini is the chameleon of the Zodiac, adept at blending into different groups
+            based on the vibe and energy they perceive. </item>
+        <item>Emotional, intuitive, and practically psychic;
+            ruled by the moon and characterized by the crab, Cancer has so much going on in its watery depths.
+            Cancer signs may seem prickly and standoffish at first meeting,
+            once they make the decision to become friends with someone,
+            that person has a friend for life.</item>
+        <item>Bold, intelligent, warm, and courageous, fire sign Leo is a natural leader of the Zodiac,
+            ready to blaze a trail, vanquish injustice, and make a name for themselves along the way.
+            Blessed with high self-esteem,
+            Lions know that they possess enviable traits—and they are proud of them.</item>
+        <item>Smart, sophisticated, and kind, Virgo gets the job done without complaining.
+            Virgos are amazing friends, always there to lend a hand and also lend advice.
+            Practical Virgos are incredibly adept at big picture thinking,
+            and planning out their life, their vacations,
+            and what they are going to do today is not a drag it makes them feel in control and secure.</item>
+        <item>Intelligent, kind, and always willing to put others before themselves,
+            Libras value harmony in all forms. Ruled by Venus, the planet of beauty,
+            Libra adores a life that looks good.
+            As the master of compromise and diplomacy, Libra is adept at seeing all points of view,
+            and excels at crafting compromises and effecting mediation between others.</item>
+        <item>Passionate, independent, and unafraid to blaze their own trail no matter what others think,
+            Scorpio signs make a statement wherever they go. They love debates, are not afraid of controversy,
+            and wont back down from a debate. </item>
+        <item>Independent and strong-willed, Sagittarius personalities are all about going off the beaten path.Sagittarius is not afraid to step away from the pack,and is a natural born leader who goes after what he or she wants,regardless of what other people think.Sagittarius is a born adventurer, and loves solo travel and exploration.</item>
+    </string-array>
+
+
+</resources>
